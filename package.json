@@ -1,6 +1,6 @@
 {
-	"author": "SaxatileStoner",
 	"name": "fcc-learn-npm-package-json",
+	"author": "SaxatileStoner",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
